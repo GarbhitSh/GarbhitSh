@@ -1,6 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on ROAS<br>🤝 I’m looking to collaborate on cutting-edge AI/ML projects<br>🌱 I’m currently learning  ML and core cs<br>💬 Ask me about optimizing AI pipelines<br>⚡ Fun fact : I’ve won 10+ hackathons and love combining AI and creative problem-solving to tackle challenges!<br><br><br>
-
+Just a dev who builds crazy stuff for fun and learning.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/garbhit-sharma-46a699249) 
