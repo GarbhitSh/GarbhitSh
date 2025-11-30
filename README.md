@@ -1,5 +1,5 @@
 # 💫 About Me:
-Just a dev who builds crazy stuff for fun and learning.
+Just a dev who love building crazy stuff for fun and learning.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/garbhit-sharma-46a699249) 
